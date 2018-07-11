@@ -1,0 +1,9 @@
+.bug {
+	height: 300px;
+	overflow: hidden;
+}
+
+.bug .react-codemirror2,
+.bug .CodeMirror {
+	height: 100%;
+}
